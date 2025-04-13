@@ -952,16 +952,6 @@
                 "p_cmdline":"*",
                 "montype":1,
                 "treatment":3
-            },
-            {
-                "res_cmdline":"*",
-                "res_path":"*\\Windows\\Resources\\*",
-                "action_type":2,
-                "cmdline":"*",
-                "p_procname":"*",
-                "p_cmdline":"*",
-                "montype":1,
-                "treatment":0
             }
         ]
     }
