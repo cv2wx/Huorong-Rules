@@ -905,6 +905,16 @@
             },
             {
                 "res_cmdline":"*",
+                "res_path":"*\\Mozilla\\*",
+                "action_type":15,
+                "cmdline":"*",
+                "p_procname":"*",
+                "p_cmdline":"*",
+                "montype":1,
+                "treatment":3
+            },
+            {
+                "res_cmdline":"*",
                 "res_path":"*\\AppData\\Roaming\\QQ\\*",
                 "action_type":15,
                 "cmdline":"*",
